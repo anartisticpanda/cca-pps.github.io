@@ -14,7 +14,7 @@ repo_license = ""
 [[extra.list]]
 title = "Join a community of competitive programmers"
 content = """Meet new friends and get to know other like-minded people! \
-We also have many experienced competitors (USACO gold and platinum) who can answer any questions you have and guide you along the way."""
+We also have many experienced competitors (USACO gold, platinum, and IOI gold medalist) who can answer any questions you have and guide you along the way."""
 
 [[extra.list]]
 title = "Improve at USACO"
